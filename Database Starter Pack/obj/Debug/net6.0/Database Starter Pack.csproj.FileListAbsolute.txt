@@ -1,0 +1,12 @@
+C:\Users\llauria\OneDrive - ALTEN Group\Projects\TaskFormUtenteGenericoApiWEB\Database Starter Pack\obj\Debug\net6.0\Database Starter Pack.csproj.AssemblyReference.cache
+C:\Users\llauria\OneDrive - ALTEN Group\Projects\TaskFormUtenteGenericoApiWEB\Database Starter Pack\obj\Debug\net6.0\Database Starter Pack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llauria\OneDrive - ALTEN Group\Projects\TaskFormUtenteGenericoApiWEB\Database Starter Pack\obj\Debug\net6.0\Database Starter Pack.AssemblyInfoInputs.cache
+C:\Users\llauria\OneDrive - ALTEN Group\Projects\TaskFormUtenteGenericoApiWEB\Database Starter Pack\obj\Debug\net6.0\Database Starter Pack.AssemblyInfo.cs
+C:\Users\llauria\OneDrive - ALTEN Group\Projects\TaskFormUtenteGenericoApiWEB\Database Starter Pack\obj\Debug\net6.0\Database Starter Pack.csproj.CoreCompileInputs.cache
+C:\Users\llauria\OneDrive - ALTEN Group\Projects\TaskFormUtenteGenericoApiWEB\Database Starter Pack\bin\Debug\net6.0\Database Starter Pack.deps.json
+C:\Users\llauria\OneDrive - ALTEN Group\Projects\TaskFormUtenteGenericoApiWEB\Database Starter Pack\bin\Debug\net6.0\Database Starter Pack.dll
+C:\Users\llauria\OneDrive - ALTEN Group\Projects\TaskFormUtenteGenericoApiWEB\Database Starter Pack\bin\Debug\net6.0\Database Starter Pack.pdb
+C:\Users\llauria\OneDrive - ALTEN Group\Projects\TaskFormUtenteGenericoApiWEB\Database Starter Pack\obj\Debug\net6.0\Database Starter Pack.dll
+C:\Users\llauria\OneDrive - ALTEN Group\Projects\TaskFormUtenteGenericoApiWEB\Database Starter Pack\obj\Debug\net6.0\refint\Database Starter Pack.dll
+C:\Users\llauria\OneDrive - ALTEN Group\Projects\TaskFormUtenteGenericoApiWEB\Database Starter Pack\obj\Debug\net6.0\Database Starter Pack.pdb
+C:\Users\llauria\OneDrive - ALTEN Group\Projects\TaskFormUtenteGenericoApiWEB\Database Starter Pack\obj\Debug\net6.0\ref\Database Starter Pack.dll

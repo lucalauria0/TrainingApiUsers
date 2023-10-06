@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TaskFormUtenteGenericoApiWEB.props" />
+</Project>
